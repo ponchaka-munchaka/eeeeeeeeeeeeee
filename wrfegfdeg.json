@@ -11,6 +11,9 @@
         "BACKGROUND_ACCENT": [
             "#5e0f26"
         ],
+        "BACKGROUND_FLOATING": [
+            "#260312"
+        ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#540a24"
         ],
@@ -60,7 +63,7 @@
             "#b8bccf"
         ],
         "INTERACTIVE_MUTED": [
-            "#262627"
+            "#343436"
         ],
         "INTERACTIVE_NORMAL": [
             "#9095ad"
@@ -102,7 +105,7 @@
             "#ff0974"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#99066F"
+            "#33051b"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
             "#ff0974"
@@ -111,7 +114,7 @@
             "#818491"
         ],
         "TEXT_LINK": [
-            "#17cfc8"
+            "#cf1761"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#360819"
@@ -151,7 +154,7 @@
         ]
     },
     "rawColors": {
-        "BLUE_345": "#17cfc8",
+        "BLUE_345": "#cf1761",
         "GREEN_430": "#39e39c",
         "RED_430": "#E02929",
         "RED_460": "#AF2323",
