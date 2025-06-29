@@ -42,13 +42,13 @@
             "#0B0B0C"
         ],
         "CARD_PRIMARY_BG": [
-            "#0E0E0F"
+            "#1f020e"
         ],
         "CARD_SECONDARY_BG": [
-            "#0E0E0F"
+            "#1f020e"
         ],
         "CHANNEL_ICON": [
-            "##ff097465"
+            "#ff097465"
         ],
         "EMBED_BACKGROUND": [
             "#111011"
@@ -117,7 +117,7 @@
             "#360819"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#0E0E0F"
+            "#0f0005"
         ],
         "INPUT_BACKGROUND": [
             "#360819"
