@@ -2,7 +2,7 @@
     "name": "Pink™",
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#0E0E0F"
+            "#290410"
         ],
         "ANDROID_RIPPLE": [
             "#2b0312"
@@ -20,22 +20,22 @@
             "#140508"
         ],
         "BACKGROUND_MENTIONED": [
-            "#ff09b615"
+            "#ff095715"
         ],
         "BG_BASE_TERTIARY": [
-            "#040405"
+            "#2e0610"
         ],
         "BG_BASE_PRIMARY": [
-            "#09090A"
+            "#60142a"
         ],
         "BG_BASE_SECONDARY": [
-            "#09090A"
+            "#140508"
         ],
         "BG_BRAND": [
-            "#ff09B695"
+            "#c91c56"
         ],
         "BG_SURFACE_RAISED": [
-            "#0E0E0F"
+            "#1c0109"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
             "#0B0B0C"
@@ -47,7 +47,7 @@
             "#0E0E0F"
         ],
         "CHANNEL_ICON": [
-            "#ff09b665"
+            "#ff095765"
         ],
         "EMBED_BACKGROUND": [
             "#111011"
@@ -56,34 +56,34 @@
             "#111011"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ff09b6"
+            "#b8bccf"
         ],
         "INTERACTIVE_MUTED": [
             "#262627"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ff09b6"
+            "#9095ad"
         ],
         "PANEL_BG": [
-            "#0C0C0D"
+            "#17020b"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#99066F"
+            "#99063c"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#99066F"
+            "#99063c"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#99066F"
+            "#99063c"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#ff09b6"
+            "#ff0957"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#ff09b6"
+            "#ff0957"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#ff1bf3"
@@ -98,19 +98,19 @@
             "#b5bac1"
         ],
         "THREAD_CHANNEL_SPINE": [
-            "#ff09b6"
+            "#ff0957"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#99066F"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
-            "#ff09b6"
+            "#ff0957"
         ],
         "TEXT_MUTED": [
             "#818491"
         ],
         "TEXT_LINK": [
-            "#ff09b6"
+            "#ff0957"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#0E0E0F"
@@ -146,21 +146,21 @@
             "#f23f431a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#ff09b614"
+            "#ff095714"
         ]
     },
     "rawColors": {
-        "BLUE_345": "#ff09b6",
+        "BLUE_345": "#ff0957",
         "GREEN_430": "#39e39c",
         "RED_430": "#E02929",
         "RED_460": "#AF2323",
         "GREEN_460": "#0b996c",
-        "BRAND_260": "#ff09b6",
-        "BRAND_360": "#ff09b6",
+        "BRAND_260": "#ff0957",
+        "BRAND_360": "#ff0957",
         "RED_400": "#F83838",
-        "BRAND_500": "#ff09b6",
+        "BRAND_500": "#ff0957",
         "BRAND_560": "#99066F",
-        "PLUM_13": "#ff09b6",
+        "PLUM_13": "#ff0957",
         "PLUM_14": "#1D1D21",
         "PLUM_15": "#ff0963",
         "PLUM_16": "#2e0516",
@@ -179,6 +179,6 @@
     "spec": 2,
     "plus": {
         "version": 0,
-        "mentionLineColor": "#ff09b6"
+        "mentionLineColor": "#ff0957"
     }
 }
