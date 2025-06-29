@@ -111,7 +111,7 @@
             "#818491"
         ],
         "TEXT_LINK": [
-            "#ff0974"
+            "#17cfc8"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#360819"
@@ -151,7 +151,7 @@
         ]
     },
     "rawColors": {
-        "BLUE_345": "#ff0974",
+        "BLUE_345": "#17cfc8",
         "GREEN_430": "#39e39c",
         "RED_430": "#E02929",
         "RED_460": "#AF2323",
