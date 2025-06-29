@@ -21,10 +21,10 @@
             "#140508"
         ],
         "BACKGROUND_MENTIONED": [
-            "##ff097415"
+            "#ff097415"
         ],
         "BG_BASE_TERTIARY": [
-            "#2e0610"
+            "#991440"
         ],
         "BG_BASE_PRIMARY": [
             "#14030a"
@@ -78,13 +78,13 @@
             "#99063c"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "##ff0974"
+            "#ff0974"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "##ff0974"
+            "#ff0974"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#ff1bf3"
@@ -99,19 +99,19 @@
             "#b5bac1"
         ],
         "THREAD_CHANNEL_SPINE": [
-            "##ff0974"
+            "#ff0974"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#99066F"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
-            "##ff0974"
+            "#ff0974"
         ],
         "TEXT_MUTED": [
             "#818491"
         ],
         "TEXT_LINK": [
-            "##ff0974"
+            "#ff0974"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#360819"
@@ -147,21 +147,21 @@
             "#f23f431a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "##ff097414"
+            "#ff097414"
         ]
     },
     "rawColors": {
-        "BLUE_345": "##ff0974",
+        "BLUE_345": "#ff0974",
         "GREEN_430": "#39e39c",
         "RED_430": "#E02929",
         "RED_460": "#AF2323",
         "GREEN_460": "#0b996c",
-        "BRAND_260": "##ff0974",
-        "BRAND_360": "##ff0974",
+        "BRAND_260": "#ff0974",
+        "BRAND_360": "#ff0974",
         "RED_400": "#F83838",
-        "BRAND_500": "##ff0974",
+        "BRAND_500": "#ff0974",
         "BRAND_560": "#99066F",
-        "PLUM_13": "##ff0974",
+        "PLUM_13": "#ff0974",
         "PLUM_14": "#1D1D21",
         "PLUM_15": "#ff0963",
         "PLUM_16": "#2e0516",
@@ -180,6 +180,6 @@
     "spec": 2,
     "plus": {
         "version": 0,
-        "mentionLineColor": "##ff0974"
+        "mentionLineColor": "#ff0974"
     }
 }
