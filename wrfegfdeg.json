@@ -1,12 +1,5 @@
 {
     "name": "ROSA",
-    "description": "",
-    "authors": [
-        {
-            "name": "Leewrdeswtgsfdgh",
-            "id": "1836641"
-        }
-    ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
             "#53438a"
@@ -62,9 +55,6 @@
     },
     "rawColors": {
         "TEXT_LINK": "#D793d5",
-    },
-    "plus": {
-        "version": 0,
     },
     "spec": 2
 }
