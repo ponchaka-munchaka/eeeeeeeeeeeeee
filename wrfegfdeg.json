@@ -1,11 +1,5 @@
 {
     "name": "Pink™",
-    "description": "A dark theme with pink accents.",
-    "authors": [
-        {
-            "name": "Purple_Ξye™"
-        }
-    ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
             "#0E0E0F"
